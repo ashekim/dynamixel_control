@@ -441,3 +441,4 @@ return_type DynamixelHardware::reset_command()
 #include "pluginlib/class_list_macros.hpp"
 
 PLUGINLIB_EXPORT_CLASS(dynamixel_hardware::DynamixelHardware, hardware_interface::SystemInterface)
+
